@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.37710.0 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NDP_VİZE", "NDP_VİZE\NDP_VİZE.csproj", "{9C0350DB-258D-406F-A128-86D523A10E19}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9C0350DB-258D-406F-A128-86D523A10E19}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9C0350DB-258D-406F-A128-86D523A10E19}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9C0350DB-258D-406F-A128-86D523A10E19}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9C0350DB-258D-406F-A128-86D523A10E19}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D6E45143-2466-40BB-98A6-E376DC675517}
+	EndGlobalSection
+EndGlobal
