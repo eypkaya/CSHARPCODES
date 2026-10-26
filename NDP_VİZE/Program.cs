@@ -10,6 +10,7 @@ namespace NDP_VİZE
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("HELLO WORLD");
         }
     }
 }
